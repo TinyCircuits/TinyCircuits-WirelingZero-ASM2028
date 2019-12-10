@@ -1,7 +1,7 @@
-# TinyCircuits-WhiskerZero-ASM2028
+# TinyCircuits-WirelingZero-ASM2028
 # ASM2028 Rev2
 
-The design files are located under design_files/ for the TinyCircuits ASM2028 Rev2 PCB. This is a processor board designed for low-cost Whisker projects. Includes 4 separately addressable Whisker ports.
+The design files are located under design_files/ for the TinyCircuits ASM2028 Rev2 PCB. This is a processor board designed for low-cost Wireling projects. Includes 4 separately addressable Wireling ports.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
